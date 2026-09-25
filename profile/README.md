@@ -1,21 +1,26 @@
 ## Hi there 👋
 
-# AI Press
+# AI VP
 
-> Publish AI knowledge, prompts & agent documentation with VitePress.
+<p align="center">
+  <strong>Publish AI knowledge, prompts & agent documentation with VuePress & VitePress</strong>
+</p>
 
-AI Press is an open-source organization focused on AI technical documentation, prompt engineering, LLM notes and AI agent workflow tutorials.
+AI VP is an open-source organization dedicated to AI technical documentation, prompt engineering, LLM notes and agent workflow tutorials.
 
-This organization mainly maintains VitePress static knowledge sites, prompt template libraries, and practical demos for large language models.
+We maintain knowledge bases, prompt libraries and practical LLM demos powered by VuePress and VitePress.
 
-### 📂 Repositories
-- Knowledge base & technical notes
-- Prompt engineering templates
+### 📦 Related Organization
+[Models-AI](https://github.com/Models-AI) — LLM scripts, model evaluations and model demos.
+
+### 📁 Repositories
+- AI knowledge base & technical notes
+- Prompt engineering template library
 - AI Agent workflow examples
-- VitePress documentation themes & demos
+- VuePress / VitePress site templates & themes
 
-### 🤝 Related
-Companion organization: [Models-AI](https://github.com/Models-AI) — for LLM scripts, model evaluation and model demos.
+### 🤝 Contribute
+Feel free to submit typo fixes, prompt templates and tutorial improvements.
 
 ### License
-All open-source projects here are released under the MIT License.
+All projects are available under the MIT License.
