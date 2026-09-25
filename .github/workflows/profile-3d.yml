@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: GetTime
         run: echo "DATE=$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %H:%M\ %Z)" >> $GITHUB_ENV
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
