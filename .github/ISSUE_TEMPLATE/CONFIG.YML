@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Q&A
+    url: https://github.com/AI-Press/.github/discussions/categories/q-a
+    about: Please ask general questions in Discussions.
