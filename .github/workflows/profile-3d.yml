@@ -10,7 +10,8 @@ env:
   TZ: Asia/Shanghai
   
 permissions:
-  contents: write  
+  contents: write 
+  packages: read
 
 jobs:
   build:
