@@ -19,4 +19,4 @@
 ## 💡 参与方式
 有疑问或者建议，欢迎提交 Issues 交流讨论。
 
-![3D贡献图](./profile-3d-contrib/profile-green-animate.svg)
+![3D贡献图](../profile-3d-contrib/profile-green-animate.svg)
