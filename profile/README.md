@@ -1,69 +1,22 @@
-<p align="center">
-  <!-- 上传logo.svg到profile目录后启用 -->
-  <img src="./logo.svg" width="120"> 
-</p>
-<h1 align="center">AI VP</h1>
+# AI-VP 技术组织
 
-<p align="center">
-  <img alt="Org Status" src="https://img.shields.io/badge/status-active-green">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
-  <img alt="Docs" src="https://img.shields.io/badge/powered-VuePress%20%7C%20VitePress-orange">
-</p>
+> 专注前端、VitePress文档站、工程化与DevOps实践，沉淀体系化技术知识库。
 
-<p align="center">
-  <em>AI Knowledge · Prompt Library · Docs Powered by VuePress & VitePress</em>
-</p>
+## 📖 关于本组织
+持续整理碎片化、结构化的技术笔记，记录学习与踩坑经验，分享开源实践。
 
-<p align="center">
-  <a href="https://github.com/Models-AI">Companion Organization: Models-AI</a>
-</p>
+## 📂 仓库目录
+- 技术知识库：VitePress搭建的在线文档站点
+- GitHub自动化：GitHub Actions、CI/CD相关示例与模板
+- 前端工程化：Vite、PNPM、Monorepo、包管理相关实践
 
----
+## 🧑‍💻 内容方向
+- VitePress 文档网站搭建、多语言配置
+- Git / GitHub Actions 自动化部署
+- 前端工程化、NodeJS、包管理
+- 网络、代理、服务器运维笔记
 
-## 🧩 About AI VP
-AI VP is an open-source community focused on AI technical documentation, prompt engineering, LLM notes, and AI agent workflow tutorials.
+## 💡 参与方式
+有疑问或者建议，欢迎提交 Issues 交流讨论。
 
-We build knowledge websites using **VuePress and VitePress**, collect reusable prompt templates, and share practical tutorials for large language models and intelligent agents.
-
-## 📂 What we maintain
-- 📖 AI technical knowledge base & personal notes
-- 📝 Prompt engineering template library
-- 🤖 AI Agent workflow examples & demos
-- 🎨 VuePress / VitePress themes and site templates
-
-## 📦 Main Repositories
-| Repository | Description |
-| ---- | ---- |
-| [`ai-vp/docs`](https://github.com/ai-vp/docs) | AI Knowledge Base Website |
-| [`ai-vp/prompts`](https://github.com/ai-vp/prompts) | Prompt Template Library |
-| [`ai-vp/themes`](https://github.com/ai-vp/themes) | VuePress & VitePress Themes |
-
-## 🔗 Companion Organization
-**[Models-AI](https://github.com/Models-AI)**
-> LLM scripts, model tests, model evaluations and model demos.
-
-## ✨ How to contribute
-Anyone is welcome to participate:
-- Fix typos, broken links and content errors
-- Submit high-quality prompt templates
-- Add AI tutorials and knowledge articles
-- Share VitePress / VuePress theme demos
-
-All contents are released under the MIT License.
-
----
-
-## 关于 AI VP
-AI VP 是开源AI文库社区，专注AI技术文档、提示词工程、大模型笔记与AI智能体工作流教程。
-我们基于 VuePress、VitePress 搭建知识库站点，整理可复用提示词模板，分享大模型与智能体实战教程。
-
-配套组织 **Models-AI**：存放大模型脚本、模型测试、模型评测相关项目。
-
-### 欢迎参与贡献
-修正文档笔误、提交优质提示词、新增AI技术文章、分享VuePress/VitePress主题模板。
-
-项目全部内容采用 MIT 协议开源。
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ai-vp&label=Profile%20views&color=0e75b6&style=flat" alt="ai-vp" />
-</p>
+![3D贡献图](./profile-3d-contrib/profile-green-animate.svg)
