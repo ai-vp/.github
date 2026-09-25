@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 上传logo.svg到profile目录后启用 -->
-  <!-- <img src="./logo.svg" width="120"> -->
+  <img src="./logo.svg" width="120"> 
 </p>
 <h1 align="center">AI VP</h1>
 
