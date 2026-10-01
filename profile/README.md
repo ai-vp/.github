@@ -1,4 +1,4 @@
-# AI-VP
+# AI & VP
 **A**rtificial **I**ntelligence & **V**irtual **P**rotocol
 
 > An open-source community focused on LLM, RAG, AI Agent, VitePress and tech toolchain engineering.
