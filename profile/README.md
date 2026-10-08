@@ -1,9 +1,9 @@
-# AI & VP
-**A**rtificial **I**ntelligence & **V**irtual **P**rotocol
+# AIVST
+> **AI Intelligence Virtual Stack Toolchain**
 
-> An open-source community focused on LLM, RAG, AI Agent, VitePress and tech toolchain engineering.
->
-> 面向大模型、RAG、AI Agent、VitePress的开源技术共同体，共建知识库与AI工具链，探索本地模型部署与多Agent协作实践。
+An open-source community focused on LLM, RAG, AI Agent, VitePress and tech toolchain engineering.
+
+面向大模型、RAG、AI Agent、VitePress的开源技术共同体，共建知识库与AI虚拟化工具链，探索本地大模型部署与多Agent协作实践。
 
 ## 组织目标
 - 构建可复用的AI Agent工作流、提示词工程与RAG知识库方案
@@ -12,9 +12,7 @@
 - 沉淀开源工具链，分享技术笔记，鼓励成员共建、交流
 
 ## 项目方向
-- 🤖 AI Agent 提示词与工作流
-- 📚 RAG 知识库工程，VitePress文档站点
-- 🖥️ 本地大模型部署、模型微调实践
-- 🧩 Monorepo、PNPM、Github Actions 工程实践
-
-## 🤝 加入我们
+- AI Agent 提示词与工作流
+- RAG知识库工程，VitePress文档站点
+- 本地大模型部署、模型微调实践
+- Monorepo、PNPM、GitHub Actions 工程化实践
